@@ -4,5 +4,5 @@
   "title": "url-regex",
   "description": "Matches the elements of a URL using a regular expression.",
   "type": "string",
-  "pattern": "^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\n]+)"
+  "pattern": "^(?:https?:\/\/)?(?:[^@\/\n]+@)?([^:\/\n]+)"
 }
